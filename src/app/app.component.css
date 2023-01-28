@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: rgb(219, 223, 233);
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
